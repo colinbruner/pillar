@@ -1,3 +1,6 @@
 base:
+  'salt*':
+    - saltmaster
+
   '*':
-    - secrets
+    - schedule

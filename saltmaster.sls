@@ -1,0 +1,2 @@
+
+is_saltmaster: True
